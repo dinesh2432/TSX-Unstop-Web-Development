@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+header{
+    padding:20px;
+    background-color:violet;
+    color:aqua;
+    text-align: center;
+}
+nav ul{
+    list-style-type:none;
+    padding: 0;
+}
+nav ul li{
+    display: inline-block;
+    margin:0 15px;
+    color:white;
+}
+main{
+    margin:10px;
+    padding: 10px;
+}
+article{
+    margin:10px;
+    padding: 30px;
+    
+}
+article p{
+    margin-top: 20px;
+}
